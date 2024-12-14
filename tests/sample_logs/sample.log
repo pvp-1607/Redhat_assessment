@@ -1,0 +1,5 @@
+2024-06-10 12:34:56 Log entry 1
+2024-06-10 12:35:56 192.168.1.1 - Successful connection
+Error occurred at 2024-06-10 12:36:56
+Connection from 2001:0db8::1
+This is just a plain log line.
